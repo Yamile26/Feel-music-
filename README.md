@@ -15,7 +15,7 @@ Reproductor de música que recomienda canciones según tu estado de ánimo, con 
 
 ## 🛠️ Stack técnico
 
-- **Frontend**: HTML, CSS, JavaScript (vanilla)
+- **Frontend**: HTML, CSS, JavaScript 
 - **Autenticación**: Firebase Auth
 - **Base de datos / Backend**: [Supabase](https://supabase.com/) — persistencia del historial emocional, estadísticas y perfil de usuario
 - **Reproducción de música**: YouTube Data API

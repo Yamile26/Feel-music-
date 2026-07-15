@@ -38,4 +38,4 @@ Proyecto personal en desarrollo activo. Próximas mejoras planeadas:
 
 ## 👩‍💻 Autora
 
-Yamile — Estudiante de Ingeniería de Inteligencia Artificial, UNI (Perú)
+Yamile del Aguila — Estudiante de Ingeniería de Inteligencia Artificial, UNI (Perú)
